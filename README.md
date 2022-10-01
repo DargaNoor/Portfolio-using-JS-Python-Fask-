@@ -1,4 +1,4 @@
-# Portfolio-using-JS-Python-Fask-
+# Portfolio-using-JS-Python-Flask-
 [Click here to see my Portfolio Website](http://noordarga.pythonanywhere.com/) \
 By using the link http://noordarga.pythonanywhere.com/ user can access from anywhere and at anytime. \
 This is my Portfolio website link done by using \
